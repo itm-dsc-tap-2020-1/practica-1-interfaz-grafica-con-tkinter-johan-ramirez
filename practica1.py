@@ -148,4 +148,4 @@ objetivoc.grid(column=0,row=14)
 pkmn2=ttk.Button(tab2, text="Imprimir",command=impex)
 pkmn2.grid(column=1, row=14)
 
-tab1.mainloop()
+ventana.mainloop()
